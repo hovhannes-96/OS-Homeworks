@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.30)
-project(Homework1 C)
+project(OS_Homeworks C)
 
 set(CMAKE_C_STANDARD 11)
 
